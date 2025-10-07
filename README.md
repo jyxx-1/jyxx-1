@@ -5,7 +5,7 @@ saudacoes()
     
 ```
 
-* Me chamo João Paulo Massari, tenho 23 anos e sou aficcionado por desenvolvimento back-end com Python! 🐍
+* Me chamo João Paulo Massari, tenho 23 anos e sou aficionado por desenvolvimento back-end com Python! 🐍
 * Fique a vontade para acessar meus repositórios, cloná-los e utilizar em seus projetos pessoais. 📚
 * Entre em contato comigo pelo LinkedIn! 🤝
 
