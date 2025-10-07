@@ -1,7 +1,7 @@
 # 💻🇧🇷 def saudacoes():
 ```python
-            return "Olá, muito prazer em conhecê-lo(a)! Seja bem-vindo(a) ao meu GitHub! 😉"
-    saudacoes()
+    return "Olá, muito prazer em conhecê-lo(a)! Seja bem-vindo(a) ao meu GitHub! 😉"
+saudacoes()
     
 ```
 
@@ -16,8 +16,8 @@
 
 # 💻🇺🇸 def greetings():
 ```python
-            return "Hi, glad to meet you! Welcome to my GitHub! 😉"
-    greetings()
+    return "Hi, glad to meet you! Welcome to my GitHub! 😉"
+greetings()
 ```
 
 * My name is João Paulo Massari, I'm 23 years old and I'm passionate about back-end development with Python! 🐍
